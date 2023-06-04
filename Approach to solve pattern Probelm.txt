@@ -1,0 +1,11 @@
+ Pattern problem Solve approach 
+ 
+ 1. No of lines it has the outer for loop will ran in that number of times
+ 
+ (No. of lines ==rows)
+ 
+ 2. Identify for every row no. how many columns are there 
+ Types of element in column
+ 
+ 
+ 3. What do you need to print 
